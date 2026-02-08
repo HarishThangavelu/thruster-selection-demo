@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Busek BET-100",
+    "type": "Hall Effect Thruster",
+    "thrust_mN": 7.0,
+    "isp_s": 1500,
+    "power_W": 100,
+    "thruster_mass_kg": 1.2,
+    "trl": 9
+  },
+  {
+    "name": "Accion TILE-50",
+    "type": "Ion Thruster",
+    "thrust_mN": 1.2,
+    "isp_s": 2500,
+    "power_W": 50,
+    "thruster_mass_kg": 0.8,
+    "trl": 7
+  },
+  {
+    "name": "Exotrail ExoMG-mini",
+    "type": "Chemical (Green Monoprop)",
+    "thrust_mN": 1000,
+    "isp_s": 230,
+    "power_W": 20,
+    "thruster_mass_kg": 2.5,
+    "trl": 9
+  },
+  {
+    "name": "Enpulsion Nano FEEP",
+    "type": "FEEP",
+    "thrust_mN": 0.35,
+    "isp_s": 4000,
+    "power_W": 40,
+    "thruster_mass_kg": 0.6,
+    "trl": 6
+  },
+  {
+    "name": "Morion TMM-5",
+    "type": "Resistojet",
+    "thrust_mN": 20,
+    "isp_s": 300,
+    "power_W": 70,
+    "thruster_mass_kg": 1.0,
+    "trl": 8
+  }
+]
